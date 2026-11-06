@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="320" viewBox="0 0 1440 320" role="img" aria-labelledby="title desc">
+  <title id="title">Douglas Aloan</title>
+  <desc id="desc">Desenvolvimento, dados e automação. Aplicações conectadas à operação.</desc>
+  <rect width="1440" height="320" rx="20" fill="#101820"/>
+  <path d="M1010 0V320M1120 0V320M1230 0V320M1340 0V320M900 80H1440M900 160H1440M900 240H1440" stroke="#253744" stroke-width="1"/>
+  <path d="M950 242H1040V184H1150V124H1260V73H1380" fill="none" stroke="#61c3bb" stroke-width="4"/>
+  <g fill="#61c3bb"><circle cx="1040" cy="184" r="6"/><circle cx="1150" cy="124" r="6"/><circle cx="1260" cy="73" r="6"/></g>
+  <rect x="64" y="58" width="42" height="4" rx="2" fill="#61c3bb"/>
+  <text x="64" y="112" fill="#a5bac8" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="3">APLICAÇÕES CONECTADAS À OPERAÇÃO</text>
+  <text x="60" y="188" fill="#f4f7fa" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="700">Douglas Aloan</text>
+  <text x="64" y="245" fill="#cbd6de" font-family="Segoe UI,Arial,sans-serif" font-size="25">Desenvolvimento · Dados · Automação</text>
+</svg>
